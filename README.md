@@ -1,1 +1,1 @@
-# rl_labs
+# Reinforcement learning
